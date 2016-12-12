@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plecoflash formatversion="2" creator="Pleco User 18845474" generator="Pleco 2.0 Flashcard Exporter" platform="iPhone OS" created="1481502738">
+    <cards>
+        <card language="chinese" created="1481484323" modified="1481485487">
+            <entry>
+                <headword charset="sc">青草</headword>
+                <headword charset="tc">青草</headword>
+                <pron type="hypy" tones="numbers">qing1cao3</pron>
+                <defn>green grass</defn>
+            </entry>
+            <dictref dictid="PACE" entryid="28555264"/>
+            <catassign category="Bible Reading"/>
+        </card>
+        <card language="chinese" created="1481484362" modified="1481485487">
+            <entry>
+                <headword charset="sc">野地</headword>
+                <headword charset="tc">野地</headword>
+                <pron type="hypy" tones="numbers">ye3di4</pron>
+                <cantopron type="yyjp" tones="numbers">je5 dei6</cantopron>
+                <defn>wild country; wilderness</defn>
+            </entry>
+            <dictref dictid="PACE" entryid="34283008"/>
+            <catassign category="Bible Reading"/>
+        </card>
+    </cards>
+</plecoflash>
